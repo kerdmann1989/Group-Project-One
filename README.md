@@ -14,7 +14,7 @@ https://wireframepro.mockflow.com/view/M0b2335c1a31199326e1d349d76aadbfd15375904
 
 
 Code style and API usage:
--Stahdard HTML, CSS, and JQuery
+-Standard HTML, CSS, and JQuery
 -https://api.cloudinary.com/v1_1/dzphyexnz
 -https://api-us.faceplusplus.com/facepp/v3/detect
    APIkey = ?api_key=xZw11Mwma4o31epWqSrnYdxMVP2CQVw
